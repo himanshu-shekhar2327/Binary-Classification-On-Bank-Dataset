@@ -75,7 +75,7 @@ XGBClassifier(
     eval_metric='auc',
     random_state=42
 )
-
+```
 ## 🏆 Kaggle Scores
 
 ### Baseline Model
